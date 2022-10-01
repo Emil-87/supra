@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Documents\supra\sony\hitachi\bin\Debug\net6.0\hitachi.exe
+C:\Users\Пользователь\Documents\supra\sony\hitachi\bin\Debug\net6.0\hitachi.deps.json
+C:\Users\Пользователь\Documents\supra\sony\hitachi\bin\Debug\net6.0\hitachi.runtimeconfig.json
+C:\Users\Пользователь\Documents\supra\sony\hitachi\bin\Debug\net6.0\hitachi.dll
+C:\Users\Пользователь\Documents\supra\sony\hitachi\bin\Debug\net6.0\hitachi.pdb
+C:\Users\Пользователь\Documents\supra\sony\hitachi\obj\Debug\net6.0\hitachi.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Documents\supra\sony\hitachi\obj\Debug\net6.0\hitachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Documents\supra\sony\hitachi\obj\Debug\net6.0\hitachi.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\supra\sony\hitachi\obj\Debug\net6.0\hitachi.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\supra\sony\hitachi\obj\Debug\net6.0\hitachi.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\supra\sony\hitachi\obj\Debug\net6.0\hitachi.dll
+C:\Users\Пользователь\Documents\supra\sony\hitachi\obj\Debug\net6.0\refint\hitachi.dll
+C:\Users\Пользователь\Documents\supra\sony\hitachi\obj\Debug\net6.0\hitachi.pdb
+C:\Users\Пользователь\Documents\supra\sony\hitachi\obj\Debug\net6.0\hitachi.genruntimeconfig.cache
+C:\Users\Пользователь\Documents\supra\sony\hitachi\obj\Debug\net6.0\ref\hitachi.dll
