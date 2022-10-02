@@ -4,26 +4,7 @@
     if(arg2> result) result = arg2;
     if(arg3> result) result = arg3;
     return result;
-}
-
-int a1 = 1512234;
-int b1 = 21;
-int c1 = 39;
-int a2 = 12;
-int b2 = 23111;
-int c2 = 33;
-int a3 = 12;
-int b3 = 23;
-int c3 = 313;
-
-// int max1 = Max(a1,b1,c1);
-// int max2 = Max(a2,b2,c2);
-// int max3 = Max(a3,b3,c3);
-// int max = Max(max1,max2,max3);
-
-int max = Max(
-Max(a1,b1,c1), 
-Max(a2,b2,c2), 
-Max(a3,b3,c3));
-
-Console.WriteLine(max);
+}//              0  1  2  3  4  5  6  7  8
+int [] array = {13,24,35,47,58,65,14,26,18,};
+array[0] = 12;
+Console.WriteLine(array[0]);
